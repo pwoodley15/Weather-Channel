@@ -8,14 +8,12 @@ April 26, 2018
 ### Student Name:  
 Paul Woodley
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+This projecet uses the inforamtion from a weather API and displays the current weather as well as the next 7 days by a user inputing their zipcode, city or IP address or lat/long.
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://pwoodley15.github.io/Weather-Channel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Parse JSON data from an HTTP response message
+2. Where to insert an API key for authorization
+3. Use AJAX to allow client to send an HTTP request to a server and get an HTTP response back.
 
